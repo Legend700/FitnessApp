@@ -22,7 +22,7 @@ ABXFIT is a comprehensive fitness application designed for everyone. It helps us
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your_username/ABXFIT.git
+    git clone https://github.com/Legend700/FitnessApp.git
     ```
    
 2. **Install dependencies**:
